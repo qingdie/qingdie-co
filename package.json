@@ -1,0 +1,22 @@
+{
+  "name": "qingdie-co",
+  "version": "0.0.1",
+  "description": "qingdie node co",
+  "homepage": "",
+  "author": {
+    "name": "qingdie",
+    "email": "xueping@qingdie.net",
+    "url": "qingdie.github.io"
+  },
+  "files": [ ],
+  "main": "index.js",
+  "keywords": [
+    ""
+  ],
+  "repository": "",
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "Apache-2.0"
+}
